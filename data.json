@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"s.jpg",
+    "name":"swathilaya24",
+    "email":"lalithagadivemula5@gmail.com",
+    "phone":"6821347897"
+  },
+"education":[
+{
+"course":"b.tech(computer science and engineering)",
+"college":[
+  "ravindra college of engineering for women",
+  "2015-2019",
+  "70%"
+]
+},
+{
+"course":"intermediate",
+"college":[
+  "sri chaitanya junior college",
+  "2013-2015",
+  "70%"
+]
+},
+{
+"course":"ssc",
+"college":[
+  "sri lakshmi high school",
+  "2013",
+  "70%"
+]
+}
+]
+}

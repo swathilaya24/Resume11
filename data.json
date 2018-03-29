@@ -2,33 +2,47 @@
   "basics":{
     "photo":"s.jpg",
     "name":"swathilaya24",
-    "email":"lalithagadivemula5@gmail.com",
-    "phone":"6821347897"
+    "email":"lalithagadivemula5@gmail.com.com",
+    "phone":"6281347897"
   },
-"education":[
-{
-"course":"b.tech(computer science and engineering)",
-"college":[
-  "ravindra college of engineering for women",
-  "2015-2019",
-  "70%"
-]
+  "education":[
+    {
+      "course":"B.tech(Computer science and engineering)",
+      "college":[
+        "Ravindra college of engineering for women",
+        "2015-2019",
+        "60%"
+      ]
+    },
+    {
+    "course":"intermediat",
+    "college":[
+      "chaitanya junior college",
+      "2013-2015",
+      "60%"
+  ]
 },
-{
-"course":"intermediate",
-"college":[
-  "sri chaitanya junior college",
-  "2013-2015",
-  "70%"
-]
-},
-{
-"course":"ssc",
-"college":[
-  "sri lakshmi high school",
+ {
+   "course":"ssc",
+   "college":[
+     "sri lakshmi high school",
   "2013",
-  "70%"
-]
-}
+     "60%"
+   ]
+ }
+],
+"skills":[
+  {
+    "name":"operating system",
+    "value":"windows,Linux"
+  },
+  {
+    "name":"programing language",
+    "value":"c,c++,java"
+  },
+  {
+    "name":"web development",
+    "value":"HTML,python"
+  }
 ]
 }
